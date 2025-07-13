@@ -124,4 +124,3 @@
 
 **今日总结：** 我已经成功地在本地建立了一个 Git 仓库，并熟练掌握了 `add`, `commit`, `log`, `status`, `diff`, `restore`, `amend` 等核心命令。我已经准备好明天学习更高级的分支操作了！
 
-I add something
